@@ -1,8 +1,0 @@
-dontinline,*.*_all_jmhStub
-dontinline,*.*_avgt_jmhStub
-dontinline,*.*_sample_jmhStub
-dontinline,*.*_ss_jmhStub
-dontinline,*.*_thrpt_jmhStub
-inline,academy/hekiyou/pudding/MappedCacheTest$BenchState.doSetup
-inline,academy/hekiyou/pudding/MappedCacheTest$BenchState.doTeardown
-inline,academy/hekiyou/pudding/MappedCacheTest.init
